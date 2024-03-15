@@ -64,7 +64,9 @@ Space between flex items
 }
 ```
 
-![Flex gap](./images/flex/gap-1.svg 'Flex gap')
+<img src="./images/flex/gap-1.svg" width="563" height="333">
+
+<!-- ![Flex gap](./images/flex/gap-1.svg 'Flex gap') -->
 
 #### cross-axis [Y-axis] : align-items
 
@@ -74,7 +76,9 @@ Space between flex items
 }
 ```
 
-![Align items](./images/flex/align-items.svg 'Align items')
+<img src="./images/flex/align-items.svg" width="563" height="333">
+
+<!-- ![Align items](./images/flex/align-items.svg 'Align items') -->
 
 #### cross-axis [Y-axis] : align-content
 
@@ -84,7 +88,9 @@ Space between flex items
 }
 ```
 
-![Align content](./images/flex/align-content.svg 'Align content')
+<img src="./images/flex/align-content.svg" width="563" height="333">
+
+<!-- ![Align content](./images/flex/align-content.svg 'Align content') -->
 
 #### main-axis [X-axis] : justify-content
 
@@ -94,4 +100,6 @@ Space between flex items
 }
 ```
 
-![Justify Content](./images/flex/justify-content.svg 'Justify Content')
+<img src="./images/flex/justify-content.svg " width="563" height="333">
+
+<!-- ![Justify Content](./images/flex/justify-content.svg 'Justify Content') -->
